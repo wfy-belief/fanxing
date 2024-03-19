@@ -1,10 +1,12 @@
 <script setup lang="ts">
 import CustomTag from "./components/CustomTag.vue";
+import Header from "./components/blog/Header.vue";
 </script>
 
 <template>
   <!--  <HelloWorld msg="Vite + Vue" />-->
-  <CustomTag></CustomTag>
+  <Header></Header>
+<!--  <CustomTag></CustomTag>-->
 </template>
 
 <style scoped>
