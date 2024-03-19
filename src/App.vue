@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import CustomTag from "./components/CustomTag.vue";
 import Header from "./components/blog/Header.vue";
 </script>
 
