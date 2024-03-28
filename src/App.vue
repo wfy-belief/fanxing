@@ -1,11 +1,11 @@
 <script setup lang="ts">
-import Header from "./components/blog/Header.vue";
 </script>
 
 <template>
   <!--  <HelloWorld msg="Vite + Vue" />-->
-  <Header></Header>
-<!--  <CustomTag></CustomTag>-->
+<!--    <Header></Header>-->
+  <!--  <CustomTag></CustomTag>-->
+  <router-view></router-view>
 </template>
 
 <style scoped>
